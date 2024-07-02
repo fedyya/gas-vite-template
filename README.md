@@ -13,6 +13,7 @@ clasp push
 ``` bush
 clasp open --webapp
 ```
+「権限がありません」と書かれた場合、AppScriptでどの関数でもいいので実行し権限を付与してください。
 
 ## Web上で外見確認
 通信はしないので、GASの操作は不可。
