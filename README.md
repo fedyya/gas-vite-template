@@ -1,8 +1,11 @@
 # React + TypeScript + Vite + GAS + clasp
 
 ## 初期設定
-- [.clasp.json](.clasp.json)の`scriptId`をAppScriptIDを設定する。
-- [spread.tsx](./src/server/spread.ts)のSpreadIDを設定する。
+- .claspの`scriptId`をAppScriptIDを設定する。
+- ./src/server/spread.tsのSpreadIDを設定する。
+``` bash
+npm install
+```
 
 ## 実行方法
 ``` bash
